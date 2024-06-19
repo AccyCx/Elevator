@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1713112655 source:c:\users\86173\desktop\elevator\elevator\elevator.cpp
+	"elevator.hpp"
+
+1713111304 c:\users\86173\desktop\elevator\elevator\elevator.hpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+
+1713180922 source:c:\users\86173\desktop\elevator\elevator\test.cpp
+	"elevator.hpp"
+
